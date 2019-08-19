@@ -1,0 +1,49 @@
+########################################
+# nBasics version 1.1 by InvisRaidinq  #
+# If you require any help please get   #
+# in contact with me                   #
+# I have just started learning Java,   #
+# so this is a very basic plugin       #
+# DO NOT CLAIM AS YOUR OWN             #
+# Hope you find my plugin helpful :)   #
+########################################
+
+#No permission message
+no_perm_message: '&cNo Permissions.'
+
+#Place your discord link inbetween the brackets.
+discord_link: '&bServer Discord: &fdiscord.gg/thisserver'
+
+#Place your server store here.
+store_link: '&bServer Store: &fstore.thisserver.net'
+
+#Place your server forums here.
+forums_link: '&bServer Forums: &fforums.thisserver.net'
+
+#Place your server TS here.
+teamspeak_link: '&bServer Teamspeak: &fts.thisserver.net'
+
+#Place your server twitter here.
+twitter_link: '&bServer Twitter: &ftwitter.com/thisserver'
+
+#Help Menu
+help_one: '&7&m----------------------------'
+help_two: '&bStore: &fstore.thisserver.net'
+help_three: '&bDiscord: &fdiscord.gg/thisserver'
+help_four: '&bForums: &fforums.thisserver.net'
+help_five: '&bTeamspeak: &fts.thisserver.net'
+help_six: ''
+help_seven: '&bIf you need any more help, please message a member of staff'
+help_eight: '&7&m----------------------------'
+
+#Format for the /broadcast command
+broadcast_format: '&8[&bBroadcast&8] &f'
+
+#Format for the /clearchat command
+clearchat_format: '&bPublic chat has been cleared'
+
+#Format for the /list command.
+list_format: '&bPlayers Online: &f'
+
+#Format for the /owner command
+owner_format: '&bServer Owner: &7InvisRaidinq'

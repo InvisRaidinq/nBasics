@@ -1,0 +1,58 @@
+########################################
+# nBasics version 1.0 by InvisRaidinq  #
+# If you require any help please get   #
+# in contact with me                   #
+# I have just ctarted learning Java,   #
+# so this is a very basic plugin       #
+# DO NOT CLAIM AS YOUR OWN             #
+# Hope you find my plugin helpful :)   #
+########################################
+
+name: nBasics
+author: InvisRaidinq
+version: 1.1
+description: Basics plugin for any server that wants it
+main: me.invisraidinq.nbasics.Base
+
+commands:
+  changelog:
+    description: View the changelog for the plugin.
+    permission: nbasics.changelog
+  discord:
+    description: View the servers discord.
+    aliases: [dc, disc]
+  store:
+    description: View the servers store.
+  forums:
+    description: View the servers forums.
+  teamspeak:
+    description: View the servers teamspeak.
+    aliases: [ts]
+  msg:
+    description: Message a player.
+    aliases: [message, w, tell]
+  reply:
+    description: Reply to a player.
+    aliases: [r]
+  help:
+    desctiption: Get help.
+  twitter:
+    description: Show the server twitter.
+  broadcast:
+    description: Broadcast a message to the server.
+    permission: nbasics.broadcast
+    aliases: [bc]
+  clearchat:
+    description: Command to clearchat.
+    permission: nbasics.clearchat
+    aliases: [cc]
+  list:
+    description: Command to check server player count.
+    aliases: [who]
+  setrank:
+    description: Set a players rank (PEX)
+    aliases: [rank, grant]
+    permission: nbasics.setrank
+  owner:
+    description: Get the information about the server owner
+    aliases: [serverowner]
